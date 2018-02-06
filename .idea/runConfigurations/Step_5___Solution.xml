@@ -44,7 +44,7 @@
     <option name="DEEP_LINK" value="" />
     <option name="ACTIVITY_CLASS" value="com.example.android.persistence.codelab.step5_solution.CustomResultUserActivity" />
     <method>
-      <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517455977831" />
+      <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517896208556" />
     </method>
   </configuration>
 </component>
